@@ -12,9 +12,11 @@ But that's just my day job.  My real life orbits the demanding but incomparably 
 
 # Research Interests
 
-I study web security with particular focus on modern browsers and the JavaScript APIs they expose to potentially untrustworthy actors.  As such, my work revolves around understanding and instrumenting modern browser rendering and JavaScript execution engines, practical analysis of potentially hostile JavaScript code, and finding systemic flaws in the ever-evolving trust and security model implemented by modern web browsers.
+I study web security with particular focus on modern browsers and the JavaScript APIs they expose to potentially untrustworthy actors.
+My work revolves around understanding and instrumenting modern browser rendering and JavaScript execution engines, practical analysis of potentially hostile JavaScript code, and finding systemic flaws in the ever-evolving trust and security model implemented by modern web browsers.
 
-Generalizing beyond my active research projects, I am a systems guy.  I like reading papers on computer architecture, operating system design, programming toolchains, and security implications of all of the above.
+Generalizing beyond my active research projects, I am a systems guy.  
+I like reading papers on computer architecture, operating system design, programming toolchains, and security implications of all of the above.
 
 # Publications
 
