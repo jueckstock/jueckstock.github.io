@@ -1,26 +1,26 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
 
-# About
+# About Me
 
-![Not photogenic](/assets/images/jueckstock.jpg)
+I'm a Computer Science PhD student at [NCSU](https://www.csc.ncsu.edu).
+I work in the [Wolfpack Security & Privacy Research](https://wspr.csc.ncsu.edu) Lab with my advisor, [Alexandros Kapravelos](https://kapravelos.com).
+In addition to my core research (see below), I help the rest of the Kapravelos group maintain its technical infrastructure and organize the annual [HackPack](https://hackpack.club) CTF.
 
-Blah blah blah PhD student blah blah NCSU blah blah WSPR blah blah [Kapravelos](https://kapravelos.com).
-*Soli Deo gloria*.
+But that's just my day job.  My real life orbits the demanding but incomparably rewarding intersection of marriage, fatherhood, exploration of the arts and sciences, and hope in Jesus Christ.  *Soli Deo gloria*.
 
-# Research
+# Research Interests
 
-Blah blah blah Web blah blah browser blah blah security blah blah privacy blah blah blah measurements blah blah underwater basket weaving.
+I study web security with particular focus on modern browsers and the JavaScript APIs they expose to potentially untrustworthy actors.  As such, my work revolves around understanding and instrumenting modern browser rendering and JavaScript execution engines, practical analysis of potentially hostile JavaScript code, and finding systemic flaws in the ever-evolving trust and security model implemented by modern web browsers.
+
+Generalizing beyond my active research projects, I am a systems guy.  I like reading papers on computer architecture, operating system design, programming toolchains, and security implications of all of the above.
 
 # Publications
 
-* Blah blah blah [VisibleV8: In-browser Monitoring of JavaScript in the Wild](https://jueckstock.github.io/assets/papers/imc2019-visiblev8.pdf)
+* [VisibleV8: In-browser Monitoring of JavaScript in the Wild](/assets/papers/imc2019-visiblev8.pdf), IMC 2019 *[to appear]*
 
 # Tools
 
-* Blah blah blah [VisibleV8](https://github.com/jueckstock/visiblev8)
+* [VisibleV8](https://github.com/jueckstock/visiblev8), a low-level native API tracing tool built into the V8 JavaScript engine in Chromium
 

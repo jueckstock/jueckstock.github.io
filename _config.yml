@@ -14,31 +14,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jordan Jueckstock
-email: jjuecks@ncsu.edu
+logo: /assets/images/placeholder.png
 description: >- # this means to ignore newlines until "baseurl:"
-  Jordan is a PhD student in North Carolina State University's WSPR lab.
-  He works with his advisor, Alexandros Kapravelos, on challenging research 
+  PhD student in North Carolina State University's WSPR lab.
+  Working with Alexandros Kapravelos on challenging research 
   problems relevant to web security and privacy.
 baseurl: "" # the subpath of your site, e.g. /blog
+email: jjuecks@ncsu.edu
 url: "https://jueckstock.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  jueckstock
-
-logo: /assets/images/jueckstock.jpg
-
-# Build settings
+github:
+        is_project_page: false
+        is_user_page: false
+show_downloads: false
+theme: jekyll-theme-minimal
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+        - Gemfile
+        - Gemfile.lock
+        - vendor
