@@ -24,5 +24,5 @@ I like reading papers on computer architecture, operating system design, program
 
 # Tools
 
-* [VisibleV8](https://github.com/jueckstock/visiblev8), a low-level native API tracing tool built into the V8 JavaScript engine in Chromium
+* [VisibleV8](https://kapravelos.com/projects/vv8), a low-level native API tracing tool built into the V8 JavaScript engine in Chromium
 

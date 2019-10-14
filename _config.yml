@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jordan Jueckstock
-logo: /assets/images/placeholder.png
+logo: /assets/images/jueckstock.jpg
 description: >- # this means to ignore newlines until "baseurl:"
   PhD student in North Carolina State University's WSPR lab.
   Working with Alexandros Kapravelos on challenging research 
