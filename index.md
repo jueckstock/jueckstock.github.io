@@ -8,7 +8,7 @@ I'm a Computer Science PhD student at [NCSU](https://www.csc.ncsu.edu).
 I work in the [Wolfpack Security & Privacy Research](https://wspr.csc.ncsu.edu) Lab with my advisor, [Alexandros Kapravelos](https://kapravelos.com).
 In addition to my core research (see below), I help the rest of the Kapravelos group maintain its technical infrastructure and organize the annual [HackPack](https://hackpack.club) CTF.
 
-But that's just my day job.  My real life orbits the demanding but incomparably rewarding intersection of marriage, fatherhood, exploration of the arts and sciences, and hope in Jesus Christ.  *Soli Deo gloria*.
+But that's just my day job.  My real life orbits the demanding but incomparably rewarding intersection of marriage, fatherhood, personal enrichment exploring the arts and sciences, and eternal hope in Jesus Christ.  *Soli Deo gloria*.
 
 # Research Interests
 
@@ -20,7 +20,7 @@ I like reading papers on computer architecture, operating system design, program
 
 # Publications
 
-* [VisibleV8: In-browser Monitoring of JavaScript in the Wild](/assets/papers/imc2019-visiblev8.pdf), IMC 2019 *[to appear]*
+* [VisibleV8: In-browser Monitoring of JavaScript in the Wild](https://kapravelos.com/publications/vv8-imc19.pdf), IMC 2019
 
 # Tools
 
